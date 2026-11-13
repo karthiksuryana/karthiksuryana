@@ -1,14 +1,4 @@
 
-### 📈 contribution activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=karthiksuryana&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=7B61FF&line=7B61FF&point=ffffff&area=true&area_color=7B61FF" width="100%" alt="Activity Graph" />
-
-</div>
-
----
-
 ### 🐍 watch my contributions get eaten
 
 <div align="center">
